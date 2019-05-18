@@ -1,0 +1,33 @@
+{
+  "name": "laravel-mix-postcss-config",
+  "version": "1.0.0",
+  "description": "A Laravel-mix plugin to add the postcss-loader to the default mix webpack.config.js file.",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint ./src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazeedobaid/laravel-mix-postcss-config.git"
+  },
+  "keywords": [
+    "laravel-mix",
+    "postcss-loader"
+  ],
+  "author": "Yazeed Obaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yazeedobaid/laravel-mix-postcss-config/issues"
+  },
+  "homepage": "https://github.com/yazeedobaid/laravel-mix-postcss-config#readme",
+  "peerDependencies": {
+    "laravel-mix": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "postcss-loader": "^3.0.0",
+    "prettier": "1.17.1"
+  }
+}

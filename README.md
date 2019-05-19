@@ -26,7 +26,7 @@ plugin extends laravel-mix api and add a method to include the loader with its c
 # Install
 Install using npm:
 ```
-$ npm install laravel-mix-post-css-config --save-dev
+$ npm install laravel-mix-postcss-config --save-dev
 ```
 
 # Usage

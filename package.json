@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-postcss-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Laravel-mix plugin to add the postcss-loader to the default mix webpack.config.js file.",
   "main": "src/index.js",
   "scripts": {

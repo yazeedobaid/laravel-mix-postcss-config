@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/yazeedobaid/laravel-mix-postcss-config.svg?style=popout)
 [![Build Status](https://travis-ci.org/yazeedobaid/laravel-mix-postcss-config.svg?branch=master)](https://travis-ci.org/yazeedobaid/laravel-mix-postcss-config)
 ![npm](https://img.shields.io/npm/v/laravel-mix-postcss-config.svg?style=popout)
-![npm](https://img.shields.io/npm/dw/laravel-mix-postcss-config.svg?style=popout)
+![npm](https://img.shields.io/npm/dt/laravel-mix-postcss-config.svg?style=popout)
 
 A Laravel-mix plugin to add the `postcss-loader` loader with its configuration file to the default mix 
 webpack.config.js file in a fluent way.

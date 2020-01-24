@@ -39,7 +39,7 @@ class LaravelMixPostCssConfigPlugin {
     return {
       rules: [
         {
-          test: /\.css/,
+          test: /\.(css|pcss)/,
           use: [{ loader: "postcss-loader", options: this.options }]
         }
       ]

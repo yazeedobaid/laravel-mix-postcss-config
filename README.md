@@ -1,7 +1,7 @@
 # laravel-mix-postcss-config
 
 ![GitHub](https://img.shields.io/github/license/yazeedobaid/laravel-mix-postcss-config.svg?style=popout)
-[![Build Status](https://travis-ci.org/yazeedobaid/laravel-mix-postcss-config.svg?branch=master)](https://travis-ci.org/yazeedobaid/laravel-mix-postcss-config)
+![Node.js Package](https://github.com/yazeedobaid/laravel-mix-postcss-config/workflows/Node.js%20Package/badge.svg)
 ![npm](https://img.shields.io/npm/v/laravel-mix-postcss-config.svg?style=popout)
 ![npm](https://img.shields.io/npm/dt/laravel-mix-postcss-config.svg?style=popout)
 

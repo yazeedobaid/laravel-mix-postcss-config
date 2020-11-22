@@ -21,12 +21,12 @@
   },
   "homepage": "https://github.com/yazeedobaid/laravel-mix-postcss-config#readme",
   "peerDependencies": {
-    "laravel-mix": "^4.0.0"
+    "laravel-mix": "~4.0 || ~5.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.3.0",
-    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-prettier": "^3.1.4",
     "postcss-loader": "^3.0.0",
     "prettier": "1.17.1"
   }
